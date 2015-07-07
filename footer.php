@@ -15,7 +15,9 @@
 </div>	<!--/wrapper-->
 <div id="footer-wrap">	
 	<div id="footer">
-		<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer') ) ?>
+		<?php dynamic_sidebar( 'sidebar-1' ); ?>
+		<?php dynamic_sidebar( 'sidebar-2' ); ?>
+		<?php dynamic_sidebar( 'sidebar-3' ); ?>
 	</div>	
 </div>
 </body>
