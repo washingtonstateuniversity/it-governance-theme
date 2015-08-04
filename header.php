@@ -44,7 +44,7 @@
 				<ul id="top-nav">
 					
 					<li><a href="http://index.wsu.edu/">A-Z Index</a></li>
-					<li><a href="http://zzusis.wsu.edu/">Zzusis</a></li>
+					<li><a href="https://my.wsu.edu/">myWSU</a></li>
 					<li><a href="http://about.wsu.edu/about/statewide.aspx">State Wide</a></li>
 					
 				</ul>
